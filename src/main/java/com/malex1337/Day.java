@@ -1,4 +1,4 @@
-package com.amayr;
+package com.malex1337;
 
 import java.io.IOException;
 import java.net.URISyntaxException;

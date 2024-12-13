@@ -1,6 +1,6 @@
-package com.amayr.aoc24.aoc4;
+package com.malex1337.aoc24.aoc4;
 
-import com.amayr.Day;
+import com.malex1337.Day;
 
 public class AOC4 extends Day {
     final int[][] directions = {{-1, 0}, {-1, 1}, {0, 1}, {1, 1}, {1, 0}, {1, -1}, {0, -1}, {-1, -1}};

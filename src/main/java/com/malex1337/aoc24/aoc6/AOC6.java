@@ -1,12 +1,12 @@
-package com.amayr.aoc24.aoc6;
+package com.malex1337.aoc24.aoc6;
 
-import com.amayr.Day;
+import com.malex1337.Day;
 
 import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
 
-import static com.amayr.aoc24.aoc6.AOC6.Direction.UP;
+import static com.malex1337.aoc24.aoc6.AOC6.Direction.UP;
 
 public class AOC6 extends Day {
     private static final char OBSTACLE = '#';

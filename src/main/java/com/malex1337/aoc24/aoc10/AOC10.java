@@ -1,6 +1,6 @@
-package com.amayr.aoc24.aoc10;
+package com.malex1337.aoc24.aoc10;
 
-import com.amayr.Day;
+import com.malex1337.Day;
 
 import java.util.ArrayList;
 import java.util.HashSet;

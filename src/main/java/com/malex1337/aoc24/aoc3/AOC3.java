@@ -1,6 +1,6 @@
-package com.amayr.aoc24.aoc3;
+package com.malex1337.aoc24.aoc3;
 
-import com.amayr.Day;
+import com.malex1337.Day;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

@@ -1,6 +1,6 @@
-package com.amayr.aoc24.aoc2;
+package com.malex1337.aoc24.aoc2;
 
-import com.amayr.Day;
+import com.malex1337.Day;
 
 public class AOC2 extends Day {
     private static final int minDistance = 1;
